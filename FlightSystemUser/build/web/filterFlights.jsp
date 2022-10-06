@@ -1,7 +1,6 @@
 <%-- 
     Document   : filterFlights
     Created on : Oct 2, 2022, 9:10:17 PM
-    Author     : dhanu
 --%>
 
 <%@page import="java.sql.ResultSet"%>

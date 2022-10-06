@@ -1,7 +1,6 @@
 <%-- 
     Document   : adminDashboard
     Created on : Sep 20, 2022, 10:08:13 AM
-    Author     : dhanu
 --%>
 
 <%@page import="java.sql.ResultSet"%>

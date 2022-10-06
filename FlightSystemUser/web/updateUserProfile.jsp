@@ -1,7 +1,6 @@
 <%-- 
     Document   : updateUserProfile
     Created on : Oct 3, 2022, 9:53:08 PM
-    Author     : dhanu
 --%>
 
 <%@page import="java.sql.ResultSet"%>

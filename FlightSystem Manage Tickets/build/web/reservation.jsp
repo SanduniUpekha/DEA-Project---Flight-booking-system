@@ -1,7 +1,6 @@
 <%-- 
     Document   : reservation
     Created on : Oct 1, 2022, 4:27:12 PM
-    Author     : dhanu
 --%>
 
 <%@page import="java.sql.ResultSet"%>

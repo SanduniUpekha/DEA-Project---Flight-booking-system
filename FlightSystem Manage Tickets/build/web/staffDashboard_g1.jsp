@@ -1,7 +1,6 @@
 <%-- 
     Document   : staffDashboard
     Created on : Sep 18, 2022, 5:06:48 PM
-    Author     : dhanu
 --%>
 
 <%@page import="java.sql.ResultSet"%>

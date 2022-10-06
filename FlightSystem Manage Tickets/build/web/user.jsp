@@ -1,7 +1,6 @@
 <%-- 
     Document   : user
     Created on : Sep 27, 2022, 12:58:06 PM
-    Author     : dhanu
 --%>
 
 <%@page import="java.sql.ResultSet"%>

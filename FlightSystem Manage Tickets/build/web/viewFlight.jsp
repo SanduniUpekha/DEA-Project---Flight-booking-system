@@ -1,7 +1,6 @@
 <%-- 
     Document   : viewFlight
     Created on : Oct 2, 2022, 5:46:52 PM
-    Author     : dhanu
 --%>
 
 <%@page import="java.sql.PreparedStatement"%>

@@ -1,7 +1,6 @@
 <%-- 
     Document   : flight
     Created on : Oct 1, 2022, 3:17:30 PM
-    Author     : dhanu
 --%>
 
 <%@page import="java.sql.ResultSet"%>

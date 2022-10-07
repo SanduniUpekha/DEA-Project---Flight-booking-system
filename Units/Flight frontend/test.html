@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.min.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>         
+  <script type="text/javascript">
+  $(function () {		 
+    $( "#datetimepicker1" ).datepicker({
+      minDate: new Date(),
+      dateFormat: 'mm-dd-yy'
+    });		 
+  });	
+  </script>
+  <body>
+  <div class="col-md-4" id="divWpickDate">
+    <div class="form-group">			 
+       <input type="text" id="datetimepicker1" class="form-control" /> 
+    </div>
+  </div>
+      
+</body>
+</html>
